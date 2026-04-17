@@ -1,0 +1,3 @@
+Assignment 1: Initialize a new Git repository in a directory of your choice. Add a simple text file to the repository and make the first commit.
+Assignment 2: Branch Creation and Switching
+Create a new branch named 'feature' and switch to it. Make changes in the 'feature' branch and commit them.
